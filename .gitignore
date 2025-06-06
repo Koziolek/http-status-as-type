@@ -1,0 +1,29 @@
+### Node template
+
+   # Logs
+   logs
+   *.log
+   npm-debug.log*
+   yarn-debug.log*
+   lerna-debug.log*
+   .pnpm-debug.log*
+
+   # Coverage directory
+   coverage
+   *.lcov
+   .nyc_output
+
+   # Dependency directories
+   node_modules/
+   jspm_packages/
+
+   # TypeScript cache
+   *.tsbuildinfo
+
+   # Dist output
+   dist/
+
+   # Misc
+   .DS_Store
+   .env
+   .cache
