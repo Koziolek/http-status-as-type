@@ -12,6 +12,7 @@
     "resolveJsonModule": true,
     "baseUrl": "./",
     "paths": {
+      "@koziolek/http-status-as-type": ["dist/src/index.d.ts"],
       "*": ["node_modules/*"]
     }
   },
